@@ -1,0 +1,3 @@
+target/
+.idea/
+pmd-converter-maven-plugin.iml
